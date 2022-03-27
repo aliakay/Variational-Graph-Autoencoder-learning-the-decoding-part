@@ -7,6 +7,5 @@
 
 
 ## Objective
-In this project,I aim to build an Variational Graph autoencoder (VGAE) model with MLP decoder part for Citeseer dataset with VGAE and graph autoencoder(GAE).
-
+In this project,I aim to build an Variational Graph autoencoder (VGAE) model with different decoder part for Citeseer dataset.
 
