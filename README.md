@@ -7,5 +7,15 @@
 
 
 ## Objective
-In this project,I aim to build an Variational Graph autoencoder (VGAE) model with different decoder part for Citeseer dataset.
+The project aim to invastigate the application
+for the decoder for VGAE.It can be seen that inner product
+still have good result when we compare the models for
+scalability and complexity.On the other hand,there has
+been better applications in order to improve the perfor-
+mance of the decoder using flexiable generative models
+and sequence models.
+I did not see a significant result in outcomes by using MLP
+in the decoder. However, I would like to try this experiment
+again on VGAE with sequence models for decoder in order
+to get better results.
 
